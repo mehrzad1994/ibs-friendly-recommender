@@ -13,7 +13,7 @@ This application is designed to help you achieve these goals.
 Using a default list of approved food and food to avoid to create a diet based on low fermentation eating suggested for people with IBS or SIBO.(for more information visit: https://goodlfe.com/en-ca/pages/the-science). Giving each user the ability to change the diet based on their personal preferences and symptoms. Providing users with recipe recommendations based on the reformed diet. They would be able to explore through IBS-friendly recipes based on what they are craving. Also providing users with restaurant and cafes nearby based on their menus and whether they include IBS-friendly choices or not which makes deciding for users much easier. Another feature included in this application is a symptoms tracker for users to their symptoms so that they could use it on their Dr appointments and also to update their diet based on them.
 
 ## Datasets
-    Dataset used to provide recipe recommendations is Food Ingredients and Recipes Dataset with Images, which can be found here: https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images/data
+Dataset used to provide recipe recommendations is Food Ingredients and Recipes Dataset with Images, which can be found here: https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images/data
 
 
 ## Practical Applications
