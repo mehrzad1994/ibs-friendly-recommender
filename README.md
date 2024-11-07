@@ -19,9 +19,25 @@ Dataset used to provide recipe recommendations is Food Ingredients and Recipes D
 ## Practical Applications
 
 ## Milestones
-Creating default diet list
-Preparing the dataset
-Implementing recipe search based on diet restrictions
+phase 1:
+  recipe recommender
+    Creating default diet list
+    Preparing the dataset
+    Implementing recipe search based on diet restrictions
+phase 2:
+  dynamic food categories
+    adding the ability to change the food categories based on personalized diet
+phase 3:
+  resturant, cafe recommendation
+phase 4:
+  symptom tracker system
+phase 5:
+  scanning menues to chose ibs-friendly options
+phase 6:
+  excercise recommender
+phase 7:
+  article recommender
+
 
 ## References
 https://goodlfe.com/en-ca/pages/the-science
